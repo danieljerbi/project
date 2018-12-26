@@ -1,0 +1,7 @@
+openDataServer 5400 10
+connect 127.0.0.1 5402
+var alt = bind "/instrumentation/altimeter/indicated-altitude-ft"
+while alt < 1000 {
+	print alt
+}
+print "done"

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/daniel/CLionProjects/project2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/daniel/CLionProjects/project2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/daniel/CLionProjects/project2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project">
+				<Option output="/home/daniel/CLionProjects/project2/cmake-build-debug/project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daniel/CLionProjects/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project/fast">
+				<Option output="/home/daniel/CLionProjects/project2/cmake-build-debug/project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daniel/CLionProjects/project2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 project/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/daniel/CLionProjects/project2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/daniel/CLionProjects/project2/BinaryExpression.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/BinaryExpression.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Client.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Client.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Command.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/ConnectCommand.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/ConnectCommand.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/DataReaderServer.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/DataReaderServer.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Div.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Div.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/EnterIfWhile.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/EnterIfWhile.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/ExpressionParser.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/ExpressionParser.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/GarbageVector.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/GarbageVector.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/GlobalMutex.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/GlobalMutex.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/GlobalNewSockfd.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/GlobalNewSockfd.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/IfWhileCommand.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/IfWhileCommand.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Interpreter.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Interpreter.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Maps.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Maps.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Minus.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Minus.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Mul.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Mul.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Number.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Number.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/OpenServerCommand.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/OpenServerCommand.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Plus.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/Plus.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/PrintCommand.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/PrintCommand.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/SetCommand.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/SetCommand.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/VarCommand.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/VarCommand.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/main.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/daniel/CLionProjects/project2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
